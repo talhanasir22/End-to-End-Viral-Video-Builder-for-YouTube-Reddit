@@ -1,5 +1,5 @@
-🎬 End-to-End Viral Video Builder for YouTube
-The End-to-End Viral Video Builder for YouTube is a fully automated n8n workflow that transforms video ideas into fully produced and published content. From prompt generation to video rendering and final YouTube upload, this workflow streamlines the entire content creation lifecycle using AI tools and APIs.
+🎬 End-to-End Viral Video Builder for YouTube/Reddit
+The End-to-End Viral Video Builder for YouTube/Reddit is a fully automated n8n workflow that transforms video ideas into fully produced and published content. From prompt generation to video rendering and final YouTube upload, this workflow streamlines the entire content creation lifecycle using AI tools and APIs.
 
 🚀 Key Features
 🧠 AI-powered idea-to-script generation (OpenAI)
